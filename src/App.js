@@ -1,6 +1,6 @@
 import "./App.css";
-import SignUp from "./components/pages/sginup/index";
-import SignIn from "./components/pages/sginin/index";
+import SignUp from "./components/pages/signup/index";
+import SignIn from "./components/pages/signin/index";
 import Dashboard from "./components/pages/dashboard/index";
 import React from "react";
 import { BrowserRouter, Routes, Route, useNavigate } from "react-router-dom";

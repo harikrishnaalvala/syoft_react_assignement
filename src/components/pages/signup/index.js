@@ -106,7 +106,7 @@ const SignUp = () => {
             <img
               className="w-[80px] lg:w-[100px]"
               src={ProfilesImg}
-              alt="profiles image"
+              alt="profiles_image"
             />
             <p className="text-[12px] lg:text-[14px]">
               Morethan 17k peoples joined us. Its your turn
